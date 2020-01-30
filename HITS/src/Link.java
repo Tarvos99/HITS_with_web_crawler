@@ -1,5 +1,5 @@
 /*Jason Grant
-HITS Project*/
+HITS Algorithm Project*/
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
