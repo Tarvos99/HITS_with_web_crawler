@@ -1,7 +1,5 @@
 /*Jason Grant
- * 4/27/19
- * CS 634-102 Spring 19
- * Advanced Implementation Project: HITS Algorithm*/
+HITS Project*/
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
